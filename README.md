@@ -4,6 +4,8 @@
 
 ES-Agent is a sophisticated dashboard application designed for project managers and analysts who utilize Earned Schedule methodology for advanced project control. This tool leverages multiple forecasting models to predict project completion dates with precision based on historical performance data.
 
+The development of this repository was inspired by the Earned Schedule Community in their development of Earned Schedule tools. To learn more visit https://www.earnedschedule.com/Calculator.shtml
+
 ![screencapture-localhost-8501-2025-03-23-23_22_18](https://github.com/user-attachments/assets/17ac19ce-5bdb-4c13-80bd-c93a48121b0e)
 ![screencapture-localhost-8501-2025-03-23-23_23_25](https://github.com/user-attachments/assets/4f34bd5e-2244-4c51-983d-72a0a971533e)
 ![ES-Agent Dashboard](screencapture-localhost-8501-2025-03-23-23_24_33.png)
