@@ -29,6 +29,11 @@ ES-Agent is a sophisticated dashboard application designed for project managers 
   - Data export/import capabilities
   - Interactive data analysis tools
 
+- **AI-Powered Analysis**:
+  - Intelligent interpretation of schedule trends
+  - Automated risk assessment
+  - Natural language processing for project insights
+
 ## Installation
 
 ```bash
@@ -46,6 +51,19 @@ venv\Scripts\activate.bat
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+### API Key Configuration
+
+For AI-powered features, you'll need to set up an API key:
+
+1. Create a `.env` file in the root directory of the project
+2. Add your API key to the file in the following format:
+
+```
+AI_API_KEY=your_api_key_here
+```
+
+> **Note**: Never commit your `.env` file to version control. It's already included in the `.gitignore` file to prevent accidental uploads.
 
 ## Usage
 
